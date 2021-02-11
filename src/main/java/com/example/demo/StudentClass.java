@@ -28,6 +28,11 @@ public class StudentClass {
         this.grade = grade;
     }
 
-    private char grade;
+    private char
+            grade;
+
+    void totalGradeOfstudents(int total){
+
+    }
 
 }
